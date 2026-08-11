@@ -1,5 +1,5 @@
 # Contract Verifier Config
-
+tab
 Central configuration file for TON contract verification infrastructure.
 
 ## Usage
